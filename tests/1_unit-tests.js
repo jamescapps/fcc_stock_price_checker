@@ -7,12 +7,12 @@
 */
 
 var chai = require('chai');
-var StockHandler = require('../controllers/stockHandler.js');
+//var StockHandler = require('../controllers/stockHandler.js');
 
-var stockPrices = new StockHandler();
+/*var stockPrices = new StockHandler();
 
 suite('Unit Tests', function(){
 
 //none requiered
 
-});
+});*/
